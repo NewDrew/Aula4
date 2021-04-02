@@ -1,0 +1,57 @@
+body {
+    margin:0px;
+}
+
+h1 {
+    margin: 0px;
+}
+
+img {
+    width: 150px;height: 150px;
+}
+
+.pagetop {
+    background-color: #21022d;
+    color: white;
+    text-align: center;
+    margin-top: 8px;margin-bottom: 8px;margin-top: 0px;
+    padding-top: 8px;padding-bottom: 8px;
+}
+
+.cardapio {
+    margin-left: 16px;padding-top: 2px;
+}
+
+.pagemid { 
+    background-color: #e2d8e7;
+    border: white;
+    margin: 24px;
+    color: #21022d;
+}
+
+.vitaminas {
+    margin-left: 64px;margin-top: 32px;
+}
+
+.lactose {
+    text-align: center;
+    margin-top: 64px;
+}
+
+.lcts {
+    width: 600px;height: 300px;
+    padding-top: 15px;padding-bottom: 16px;
+}
+
+
+
+
+.pagelow {
+    background-color: #21022d;color: white;
+    text-align: center;
+    margin-bottom: 0px;
+    padding-top: 8px;padding-bottom: 8px;
+    
+}
+
+
